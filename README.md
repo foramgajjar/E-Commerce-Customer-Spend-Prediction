@@ -50,3 +50,6 @@ Checking for outliers that may affect model performance.
 **Results**
 
 The Linear Regression model predicts customer spending based on key features, with Length of Membership being the most influential factor.
+
+![image alt](https://github.com/foramgajjar/E-Commerce-Customer-Spend-Prediction/blob/6c30b4b04664713fad94e46fac10abb4ae93666e/img1.PNG)
+![image alt]()
